@@ -1,4 +1,4 @@
-# Lady Bella2
+# ʟᴀᴅʏ ʙᴇʟʟᴀ2
 
 <!-- Glowing Header -->
 
@@ -13,11 +13,11 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PLEASE+FORK+THE+REPO+FOR+MORE+UPDATES)](https://git.io/typing-svg)
 >
 
 ---
-<h4 align="left">1. 𝐌𝐲 𝐚𝐜𝐜𝐨𝐮𝐧𝐭</h4>
+<h4 align="left">1. ᴍʏ ᴀᴄᴄᴏᴜɴᴛ</h4>
 <p align="left">
 <a href='https://github.com/SNOWBIRD0074' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Github%20Follow-blue?style=for-the-badge&logo=github&logoColor=white'/></a>
 </p>
@@ -27,45 +27,52 @@
 
 ---
 
-## 🚀 Deployment Options
+## 🚀 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴏᴘᴛɪᴏɴs
 
-### ⭐ Fork & Star the Repository
-Fork this repo and give it a ⭐ to support SNOWBIRD!
+### ⭐ ғᴏʀᴋ & sᴛᴀʀ ʀᴇᴘᴏsɪᴛᴏʀʏ
+ғᴏʀᴋ & sᴛᴀʀ ⭐ ᴛᴏ sᴜᴘᴘᴏʀᴛ sɴᴏᴡʙɪʀᴅ!
 
 [![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/SNOWBIRD0074/Lady-Bella2/fork)
 
 ---
 
-### 💙Pair your number 💚get creds file💜
+### 💙ᴘᴀɪʀ ʏᴏᴜʀ #💚ɢᴇᴛ ᴄʀᴇᴅs ғɪʟᴇ💜
 
 [![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://kkkdjjdjjdjdjdjj.onrender.com)
 
+---
 
+### ✔️ ᴅᴏᴡɴʟᴏᴀᴅ ʟᴀᴅʏʙᴇʟʟᴀ2 ᴢɪᴘ
+
+[![Deploy on Bot hosting net](https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/SNOWBIRD0074/Lady-Bella2/archive/refs/heads/main.zip)
 
 ---
 
-### ✔️  Deployment 
+### 🤍  ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
-#### ✔️ Bot hosting net
+#### ✔️ ʙᴏᴛ ʜᴏsᴛɪɴɢ ɴᴇᴛ
 ---
 [![Deploy on Bot hosting net](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://bot-hosting.net/panel)
 
 
 ---
  
-#### ✔️ Video on how to deploy 
+#### ✔️ Vɪᴅᴇᴏ ᴏɴ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ
 ---
 [![Deploy on Heroku](https://img.shields.io/badge/-Watch-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
 
 
 
 ---
-## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
+## Fᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ғᴏʀ ᴜᴘᴅᴀᴛᴇs
 
 
  <a href="https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
+ ---
  
+ <a href="https://t.me/cyberdevsofficial"><img title="OUR-TELEGRAM CHANNEL" src="https://img.shields.io/badge/OUR-TELEGRAM CHANNEL-h?color=blue&style=for-the-badge&logo=telegram" width="280" height="38.45"/></a></p>
+
 
   </a>
 </p>
