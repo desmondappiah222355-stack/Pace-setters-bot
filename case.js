@@ -37,6 +37,15 @@ const sender = m.key.fromMe
 
 const senderNumber = sender.split('@')[0];
 const budy = (typeof m.text === 'string' ? m.text : '');
+	// Auto reaction when "love" is typed
+if (budy.toLowerCase().includes("love")) {
+    await supreme.sendMessage(m.chat, {
+        react: {
+            text: "❤️",
+            key: m.key
+        }
+    });
+}
 const prefa = ["", "!", ".", ",", "🐤", "🗿"];
 const prefix = /^[°zZ#$@+,.?=''():√%!¢£¥€π¤ΠΦ&><™©®Δ^βα¦|/\\©^]/.test(body) ? body.match(/^[°zZ#$@+,.?=''():√%¢£¥€π¤ΠΦ&><!™©®Δ^βα¦|/\\©^]/gi) : '/';
 
